@@ -1,4 +1,4 @@
-<project name="HelloWorld" basedir="." default="package">
+<project name="HelloWorld" basedir="." default="clean-build">
 
     <property name="src.dir"     value="src"/>
 
