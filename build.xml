@@ -1,4 +1,4 @@
-<project name="HelloWorld" basedir="." default="clean-final">
+<project name="HelloWorld" basedir="." default="war">
 
     <property name="src.dir"     value="src"/>
 
